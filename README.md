@@ -23,44 +23,13 @@ Developed a machine learning model to predict the price of a car using a dataset
 8. **Model Building and Model Selection:** Try out Linear Regression, KNN, SVR, Decision Tree, Random Forest models and Compared the performance of different models based on root mean squared error.
 9. **Hyper paraneter tuning:** Fine-tune the hyperparameters of the selected regression model(s) using Random search.
 
-Please visit the [repository](https://github.com/tillyshan/Heart-Disease-detection/blob/main/heart%20disease%20detection.ipynb) for the Code.
+Please visit the [repository](https://github.com/tillyshan/Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb) for the Code.
 
-### Model Selection and Web Application
+### Model Selection 
 
-After evaluating multiple machine learning models, the final model was selected based on its performance, with a focus on recall for the positive class, ensuring accurate identification of heart disease patients.
+After evaluating multiple machine learning models using cross validation, the final model was selected based on its performance, with gave minimum mean squarred error. Random Forest was the best model.
 
-#### Best Model: [Logistic Regression]
+#### Best Model: [Random Forest]
 
-To make the model accessible and user-friendly, a basic web application was created using the Streamlit library. The application allows users to input relevant data and get predictions regarding the likelihood of heart disease. It provides a basic user-friendly interface.
-
-Please visit the [repository](https://github.com/tillyshan/Heart-Disease-detection/blob/main/web%20application.py) for the model.
-
-![App interface](https://github.com/tillyshan/Heart-Disease-detection/blob/main/image.png)
-
-
-### Usage
-To run the Heart Disease Detection application, follow these steps:
-
-1. **Clone the Repository:** Clone the GitHub repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/tillyshan/Heart-Disease-detection.git
-    ```
-
-2.**Run the Application:** Start the application by running the following command in your Anaconda Prompt, Command Prompt, or PyCharm Terminal:
-
-   ```bash
-   streamlit run web application.py
-   ```
-
-3. **Access the Application:** Open a web browser and navigate to the URL provided in the terminal (usually, it will be something like http://localhost:8501). You will see the user-friendly interface where you can enter your details.
-
-Please note that the application is for demonstration and educational purposes.
-
-### Future Enhancements
-"The model achieves a 70% accuracy rate. Various models and model combinations can be employed to enhance performance."
-
-This README provides an overview of the "Heart Disease Detection" project, highlighting its key components and the development of a user-friendly web application for predicting heart disease. For more detailed information and access to the code, please visit the [repository] (https://github.com/tillyshan/Heart-Disease-detection)).
-
-This project showcased the significance of prioritizing recall for the positive class in the context of heart disease detection, emphasizing the accurate identification of patients at risk. It demonstrated the effective use of machine learning and data preprocessing techniques to build a robust predictive model for healthcare applications.
+Then carry out hyperparameter tuning to further increase model performance.
 
