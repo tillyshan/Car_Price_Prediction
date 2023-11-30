@@ -23,6 +23,7 @@ Developed a machine learning model to predict the price of a car using a dataset
 8. **Model Building and Model Selection:** Try out Linear Regression, KNN, SVR, Decision Tree, Random Forest models and Compared the performance of different models based on root mean squared error.
 9. **Hyper paraneter tuning:** Fine-tune the hyperparameters of the selected regression model(s) using Random search.
 10. **Checking for Overfitting and Underfitting** Check final model is generalized well or not.
+11. **Test the final model** Check the model performance on the test dataset.
 
 Please visit the [repository](https://github.com/tillyshan/Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb) for the Code.
 
