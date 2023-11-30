@@ -18,8 +18,8 @@ Developed a machine learning model to predict the price of a car using a dataset
 3. **Handling Missing Values:** There is no any Missing Values in this Data Set
 4. **Handling Duplicates:** Identify and remove any duplicate records from the dataset.
 5. **Handling Outliers:** Identify and address outliers in the dataset, considering whether to remove, transform, or handle them through robust modeling techniques. Here used IQR technique and intuition of the real world scenarios.
-6. **Handling Categorical Variables:** onvert categorical variables into a format suitable for regression modeling . In here One Hot Encoding was used.
-7. **Data preprossessing and feature Scalling:** Preprocess the data, which may involve scaling numerical features to a standardized range.
+6. **Handling Categorical Variables:** Convert categorical variables into a format suitable for regression modeling . In here One Hot Encoding was used.
+7. **Data preprossessing and feature Scalling:** Preprocess the data, involve scaling numerical features to a standardized range.
 8. **Model Building and Model Selection:** Try out Linear Regression, KNN, SVR, Decision Tree, Random Forest models and Compared the performance of different models based on root mean squared error.
 9. **Hyper paraneter tuning:** Fine-tune the hyperparameters of the selected regression model(s) using Random search.
 
