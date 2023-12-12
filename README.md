@@ -39,6 +39,7 @@ Developed a machine learning model to predict car prices using a dataset with di
 9. **Hyper paraneter tuning:** Fine-tune the hyperparameters of the selected regression model(s) using Random search.
 10. **Checking for Overfitting and Underfitting** Check final model is generalized well or not.
 11. **Test the final model** Check the model performance on the test dataset.
+12. **Build Web Application** Users can input different data and obtain predicted prices.
 
 Please visit the [repository](https://github.com/tillyshan/Car_Price_Prediction/blob/main/Car%20Price%20Prediction.ipynb) for the Code with detailed process.
 
