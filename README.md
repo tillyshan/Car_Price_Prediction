@@ -1,15 +1,15 @@
 # Project: Car Price Predictiopn
 
-**Description:**
+### Description:
 Developed a machine learning model to predict car prices using a dataset with diverse features. Explored and implemented various algorithms, including Linear Regression, Support Vector Machines, K-Nearest Neighbors, Random Forest, and Decision Tree, to address the regression problem.
 
 **Interactive APP:**
-Built an interactive web application using the Flask framework, enabling users to obtain predicted car prices through an intuitive interface.
+- Built an interactive web application using the Flask framework, enabling users to obtain predicted car prices through an intuitive interface.
 
 ![Car Price Prediction APP Interface](https://github.com/tillyshan/Car_Price_Prediction/blob/main/clip.gif)
 
 
-**Technologies and Libraries:**
+### Technologies and Libraries:
 - Python
 - Pandas
 - NumPy
@@ -25,7 +25,7 @@ Built an interactive web application using the Flask framework, enabling users t
 - CSS
 - Java Script
 
-**Key Steps:**
+### Key Steps:
  here is the quick summary:
 
 1. **Understand The Data:** Begin by understanding the dataset, including the features, target variable, and the nature of the data.
@@ -42,7 +42,7 @@ Built an interactive web application using the Flask framework, enabling users t
 
 Please visit the [repository](https://github.com/tillyshan/Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb) for the Code with detailed process.
 
-### RMSE
+**RMSE**
 
 RMSE is the standard deviation of the residuals. So, RMSE gives us the standard deviation of the unexplained variance by the model. It can be calculated by taking square root of Mean Squared Error. RMSE is an absolute measure of fit. It gives us how spread the residuals are, given by the standard deviation of the residuals. 
 
