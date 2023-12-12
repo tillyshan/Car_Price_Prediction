@@ -40,7 +40,7 @@ Developed a machine learning model to predict car prices using a dataset with di
 10. **Checking for Overfitting and Underfitting** Check final model is generalized well or not.
 11. **Test the final model** Check the model performance on the test dataset.
 
-Please visit the [repository](https://github.com/tillyshan/Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb) for the Code with detailed process.
+Please visit the [repository](https://github.com/tillyshan/Car_Price_Prediction/blob/main/Car%20Price%20Prediction.ipynb) for the Code with detailed process.
 
 **RMSE**
 
